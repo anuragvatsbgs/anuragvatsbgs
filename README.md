@@ -1,4 +1,4 @@
-![About Me](https://github.com/anuragvatsbgs/anuragvatsbgs/blob/b9fe995e9db239b8f848dff7d175e6a42cb586e7/learn.jpg)
+![About Me](https://github.com/anuragvatsbgs/anuragvatsbgs/blob/c17ce47a628fe40a102a10e6f59ea27ac14089ca/aboutme.jpg)
 
 
 
