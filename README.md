@@ -1,4 +1,4 @@
-[![About Us](https://github.com/anuragvatsbgs/anuragvatsbgs/blob/b9fe995e9db239b8f848dff7d175e6a42cb586e7/learn.jpg)]
+![About Me](https://github.com/anuragvatsbgs/anuragvatsbgs/blob/b9fe995e9db239b8f848dff7d175e6a42cb586e7/learn.jpg)
 # 💫 About Me:
 Working as Student at MDU
 
