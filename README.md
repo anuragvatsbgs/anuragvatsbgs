@@ -1,4 +1,4 @@
-![About Me](https://github.com/anuragvatsbgs/anuragvatsbgs/blob/c17ce47a628fe40a102a10e6f59ea27ac14089ca/aboutme.jpg)
+![About Me](app.jpg)
 
 
 
