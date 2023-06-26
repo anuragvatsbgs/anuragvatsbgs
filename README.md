@@ -1,4 +1,4 @@
-![About Me](app.jpg)
+![About Me](Game.jpg)
 
 
 
