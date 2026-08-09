@@ -47,14 +47,6 @@ Driven by a passion for education and technology, I specialize in full-stack web
 | ⚡ **[Edge-Rewards-Collector](https://github.com/anuragvatsbgs/Edge-Rewards-Collector)** | JavaScript | Automation script to simplify web searches and manage rewards points. |
 | 🚗 **[Mobile-App-Bluetooth-Car](https://github.com/anuragvatsbgs/Mobile-App-Bluetooth-Car)** | C++ / Hardware | Microcontroller firmware and mobile controller for Bluetooth-driven cars. |
 
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragvatsbgs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=anuragvatsbgs&layout=compact&theme=radical&hide=html,css"/>
-</div>
 
 ---
 
